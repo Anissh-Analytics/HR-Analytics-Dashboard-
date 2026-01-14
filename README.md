@@ -23,27 +23,27 @@ The dataset consists of employee-level records including staff details, departme
 Organizations often lack a centralized view of workforce data, making it difficult for HR teams to track employee distribution, salary patterns, diversity metrics, and hiring growth. This dashboard addresses that challenge by presenting key HR metrics in a single, interactive view.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-🎯 Goal of the Dashboard  
-The primary goal of this dashboard is to analyze and monitor workforce composition across departments, roles, demographics, and time.
-Secondary objectives include:    
-⚪Understanding salary distribution by qualification  
-⚪Monitoring gender diversity  
-⚪Tracking hiring growth trends  
-⚪Evaluating average leave balance and compensation metrics 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The primary goal of this dashboard is to analyze and monitor workforce composition across departments, roles, demographics, and time.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Secondary objectives include:    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚪Understanding salary distribution by qualification  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚪Monitoring gender diversity  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚪Tracking hiring growth trends  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚪Evaluating average leave balance and compensation metrics 
 
--📊 Walkthrough of My Key Visuals   
-🃏 Cards – Display key HR KPIs such as Total Headcount, Average Salary, and Average Leave Balance for instant insight  
-📊 Bar Chart – Shows “What do they do?” by visualizing employee count by job role / department  
-🥧 Pie Chart – Highlights gender distribution of the workforce (Male vs Female)  
-📈 Histogram / Column Chart – Represents age distribution of staff to understand workforce demographics  
-📌 Scatter Plot – Analyzes Qualification vs Salary, helping identify salary patterns based on education level  
-📉 Line Chart – Displays headcount growth over time, including cumulative hiring trends and recent workforce expansion  
-🛠️ Tool Tip - Displays more detailed info and visuals as you hover over a particular visual   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-📊 Walkthrough of My Key Visuals   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🃏 Cards – Display key HR KPIs such as Total Headcount, Average Salary, and Average Leave Balance for instant insight  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📊 Bar Chart – Shows “What do they do?” by visualizing employee count by job role / department  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥧 Pie Chart – Highlights gender distribution of the workforce (Male vs Female)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📈 Histogram / Column Chart – Represents age distribution of staff to understand workforce demographics  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 Scatter Plot – Analyzes Qualification vs Salary, helping identify salary patterns based on education level  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📉 Line Chart – Displays headcount growth over time, including cumulative hiring trends and recent workforce expansion  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛠️ Tool Tip - Displays more detailed info and visuals as you hover over a particular visual   
 
--💼 Business Impact and Insights  
-👥 Workforce Planning: HR teams can identify staffing concentration across roles and departments to improve workforce allocation  
-📈 Hiring Strategy: Management can track hiring growth trends and evaluate recent recruitment effectiveness  
-⚖️ Compensation Analysis: Helps assess salary distribution across qualification levels to ensure fair and competitive pay structures  
-🌍 Diversity & Inclusion: Gender and age distribution insights support diversity monitoring and policy planning  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-💼 Business Impact and Insights  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👥 Workforce Planning: HR teams can identify staffing concentration across roles and departments to improve workforce allocation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📈 Hiring Strategy: Management can track hiring growth trends and evaluate recent recruitment effectiveness  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚖️ Compensation Analysis: Helps assess salary distribution across qualification levels to ensure fair and competitive pay structures  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌍 Diversity & Inclusion: Gender and age distribution insights support diversity monitoring and policy planning  
 
 6. Screenshots / Demos  
 ![Dashboard Preview](https://github.com/Anissh-Analytics/HR-Analytics-Dashboard-/blob/main/Snapshot%20of%20HR%20Dashboard.png)
