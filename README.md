@@ -18,7 +18,7 @@ The dashboard was built using the following tools and technologies:
 Source: Sample HR dataset  
 The dataset consists of employee-level records including staff details, department/role, gender, age, qualification, salary, leave balance, and date of joining, enabling workforce analysis across multiple dimensions.  
 
-##5. Features / Highlights  
+5. Features / Highlights  
 -🏢 Business Problem  
 Organizations often lack a centralized view of workforce data, making it difficult for HR teams to track employee distribution, salary patterns, diversity metrics, and hiring growth. This dashboard addresses that challenge by presenting key HR metrics in a single, interactive view.
 
