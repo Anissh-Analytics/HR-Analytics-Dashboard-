@@ -20,8 +20,7 @@ The dataset consists of employee-level records including staff details, departme
 
 5. Features / Highlights  
 🏢 Business Problem  
-Organizations often lack a centralized view of workforce data, making it difficult for HR teams to track employee distribution, salary patterns, diversity metrics, and hiring growth. This dashboard addresses that challenge by presenting key HR metrics in a single, interactive view.  
-
+Organizations often lack a centralized view of workforce data, making it difficult for HR teams to track employee distribution, salary patterns, diversity metrics, and hiring growth. This dashboard addresses that challenge by presenting key HR metrics in a single, interactive view.    
 🎯 Goal of the Dashboard  
 The primary goal of this dashboard is to analyze and monitor workforce composition across departments, roles, demographics, and time.
 Secondary objectives include:    
@@ -29,7 +28,6 @@ Secondary objectives include:
 ⚪Monitoring gender diversity  
 ⚪Tracking hiring growth trends  
 ⚪Evaluating average leave balance and compensation metrics  
-
 📊 Walkthrough of My Key Visuals   
 🃏 Cards – Display key HR KPIs such as Total Headcount, Average Salary, and Average Leave Balance for instant insight  
 📊 Bar Chart – Shows “What do they do?” by visualizing employee count by job role / department  
@@ -38,7 +36,6 @@ Secondary objectives include:
 📌 Scatter Plot – Analyzes Qualification vs Salary, helping identify salary patterns based on education level  
 📉 Line Chart – Displays headcount growth over time, including cumulative hiring trends and recent workforce expansion  
 🛠️ Tool Tip - Displays more detailed info and visuals as you hover over a particular visual   
-
 💼 Business Impact and Insights  
 👥 Workforce Planning: HR teams can identify staffing concentration across roles and departments to improve workforce allocation  
 📈 Hiring Strategy: Management can track hiring growth trends and evaluate recent recruitment effectiveness  
