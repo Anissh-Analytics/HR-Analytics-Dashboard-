@@ -23,7 +23,7 @@ The dataset consists of employee-level records including staff details, departme
 Organizations often lack a centralized view of workforce data, making it difficult for HR teams to track employee distribution, salary patterns, diversity metrics, and hiring growth. This dashboard addresses that challenge by presenting key HR metrics in a single, interactive view.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-🎯 Goal of the Dashboard  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The primary goal of this dashboard is to analyze and monitor workforce composition across departments, roles, demographics, and time.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The primary goal of this dashboard is to analyze and monitor workforce composition across departments, roles, demographics, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and time.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Secondary objectives include:    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚪Understanding salary distribution by qualification  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚪Monitoring gender diversity  
