@@ -40,9 +40,9 @@ Organizations often lack a centralized view of workforce data, making it difficu
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛠️ Tool Tip - Displays more detailed info and visuals as you hover over a particular visual   
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-💼 Business Impact and Insights  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👥 Workforce Planning: HR teams can identify staffing concentration across roles and departments to improve workforce allocation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👥 Workforce Planning: HR teams can identify staffing concentration across roles and departments to improve workforce &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;allocation  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📈 Hiring Strategy: Management can track hiring growth trends and evaluate recent recruitment effectiveness  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚖️ Compensation Analysis: Helps assess salary distribution across qualification levels to ensure fair and competitive pay structures  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚖️ Compensation Analysis: Helps assess salary distribution across qualification levels to ensure fair and competitive pay &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;structures  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌍 Diversity & Inclusion: Gender and age distribution insights support diversity monitoring and policy planning  
 
 6. Screenshots / Demos  
